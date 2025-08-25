@@ -7,7 +7,7 @@
 
 # Quarto build artifacts
 /.quarto/
-_site/
+# _site/ - commented out to allow deployment
 
 # Python temporary files
 __pycache__/
