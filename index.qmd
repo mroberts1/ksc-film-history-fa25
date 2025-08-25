@@ -1,0 +1,372 @@
+---
+title: 'Introduction to Film History'
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+![](img/varda-resnais.jpg){.lightbox}
+
+::: {.column-margin}
+
+FILM 271-01-FA25  
+[Keene State College](https://keene.edu)\
+Department of Film\
+Fall Semester 2025\
+Monday 10:00 a.m.-1:30 p.m.\
+Parker Hall: Drenan Auditorium\
+Instructor: Dr. Martin Roberts\
+Office hours: Monday 16:00-17:00\
+Office location: Media Arts 124\
+[Canvas](https://keene.instructure.com/courses/2474966)\
+<br>
+[{{< fa regular envelope >}}](mailto:mdy45@usnh.edu) \| [{{< fa brands mastodon >}}](https://merveilles.town/@dokoissho) \| [{{< fa brands github >}}](https://github.com/mroberts1/) \| 
+[{{< fa brands bluesky >}}](https://bsky.app/profile/dokoissho.bsky.social)
+
+:::
+
+<small>Agnès Varda (standing), Alain Resnais (left), Silvia Monfort and Philippe Noiret (right) on the shoot of Varda’s *La Pointe Courte* (1954)</small>
+
+## Overview
+
+This course provides an introduction to the study of the history of world cinemas and filmmaking over the past century. Students are introduced to national cinemas, film movements, genres, major directors/auteurs, and historically significant films. Films are contextualized within both to the history of film itself and the larger historical contexts from which they emerged. They are explored in relation to a wide range of analytical frameworks and concepts. Course assignments provide the opportunity to study historical film movements and pursue research on the works of specific directors.
+
+## Outcomes
+
+By the end of the course, students will have acquired an in-depth understanding of a wide range of historically significant national cinemas, film movements, major directors, and films. They will also have developed analytical films in understanding films within their larger historical contexts. 
+
+## Reading Assignments
+
+There is no textbook for this course.
+
+Reading assignments will be available either as PDFs via Canvas or online articles (follow links for access).
+
+---
+
+##  Writing Assignments
+
+**Film Auteur**\
+1,500-2000 words / 6-8 pages double-spaced, with bibliography  
+Grading: Letter  
+At least three films by one of the following filmmakers:
+
+- Michelangelo Antonioni
+- Shirley Clarke
+- Rainer Werner Fassbinder
+- Krzysztof Kieślowski
+- Stanley Kubrick
+- Joseph Losey
+- Louis Malle
+- Albert and David Maysles
+- Andrei Tarkovsky
+- Hiroshi Teshigahara
+- Jacques Tourneur
+- Agnès Varda
+- Charlotte Zwerin
+
+**Film Movement**\
+1,000 words / 4 pages double-spaced) 
+Grading: Letter  
+An overview of an international film movement (pre-2000 only), involving watching at least three films from the movement in question.
+
+**Film Essay**  
+Grading: Letter   
+Possible topics:
+
+- Film studio (e.g. Cinecittà)
+- Actor/Actress (e.g. Dirk Bogarde, Jeanne Moreau)
+- Cinematographer (e.g. Nestor Almendros)
+
+**Reflection**\
+Grading: Complete/Incomplete\  
+250-word reflection on the film screened that week, due by the following class.\  
+References to relevant sources encouraged and will get extra credit.\ 
+10 required; posted on Canvas weekly, from Week 3.  
+
+**Submission Formats** (any permitted)
+
+- Written essay (see specific assignments for details). Submission: Canvas
+- Web essay (embedded images + clips). Submission: URL on Canvas
+- Video essay (edited clip compilation + titles + voiceover). Submission: upload to Google Drive, URL on Canvas
+
+***
+
+## Evaluation
+
+- Film Response (10 overall): 40%
+- Movement Study: 20% 
+- Auteur Study: 20%  
+- Film Essay Project: 20%
+
+---
+
+## Platforms
+
+[Criterion](https://www.criterion.com/)  
+[Justwatch](https://justwatch.io/)  
+[Letterboxd](https://letterboxd.com/)
+[Metrograph](https://metrograph.com/)  
+[Mubi](https://mubi.com/)  
+[Movie Database](https://www.themoviedb.org/?language=en-US)  
+[Sundance Now](https://sundancenow.com)
+
+***
+
+## Resources
+
+-  [Film Movements](https://cinemawavesblog.com/movements//) (CinemaWaves website)
+-  [Film Movements: A Beginner's Guide](https://www.movementsinfilm.com/) (Movements in Film website)
+
+***
+
+## Films
+
+- _Cat People_ (Jacques Tourneur, 1942)
+- _Ascenseur pour l’échafaud_ (_Elevator to the Gallows_, Louis Malle, 1958)
+- _The Servant_ (Joseph Losey, 1963)
+- _Red Desert_ (_Il deserto rosso_, Michelangelo Antonioni, 1964)
+- _The Face of Another_ (_Tanin no kao_, Hiroshi Teshigahara, 1966)
+- _Portrait of Jason_ (Shirley Clarke, 1967)
+- *Black Panthers* (Agnès Varda, 1968)
+- *Gimme Shelter* (Albert Maysles, David Maysles, Charlotte Zwerin, 1970)
+- _Killer of Sheep_ (Charles Burnett, 1978)
+- _The American Soldier_ (_Der amerikanische Soldat_, Rainer Werner Fassbinder, 1970)
+- _Barry Lyndon_ (Stanley Kubrick, 1975)
+- _Stalker_ (Andrei Tarkovsky, 1979)
+- _Three Colours: Blue_ (_Trois couleurs: Bleu_, Krzysztof Kieślowski, 1993)
+
+---
+
+## Class Schedule
+
+Week 1: Mon 25 Aug
+
+Introduction: This Is Not A Survey Course
+
+Screening: _Cat People_
+
+---
+
+Week 2: Mon 1 Sept
+
+NO CLASS (Labor Day)
+
+---
+
+Week 3: Mon 8 Sept
+
+**Topic: Cat People**
+
+Reading:
+- Daisuke Miyao, "Cats Love Dark Places: Lighting in *Cat People*"
+
+Screening: _Elevator to the Gallows_
+
+---
+
+Week 4: Mon 15 Sept
+
+**Nocturnal Cinema**
+
+Reading:
+- Ginette Vincendeau, "French Film Noir"
+- Ginette Vincendeau, "Jeanne Moreau and the Actresses of the New Wave"
+
+Screening: _The Servant_ 
+
+---
+
+Week 5: Mon 22 Sept
+
+**Red Hollywood**
+
+Reading: 
+- Selected chapters from David Caute, *Joseph Losey: A Revenge on Life*
+
+Screening: _Red Desert_ 
+
+See also: *Red Hollywood* 
+
+---
+
+Week 6: Mon 29 Sept
+
+**Art Cinema**
+
+Reading:
+
+- David Bordwell, "The Art Cinema as a Mode of Film Practice"
+- Quaranta, "[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](pdf/quaranta.pdf)" (*Film-Philosophy*, 24.1 (2020): 1-21)
+
+Screening: _The Face of Another_ 
+
+---
+
+Week 7: Mon 6 Oct
+
+**Japanese New Wave**
+
+Reading:
+
+- Movements in Film on the [Japanese New Wave](https://www.movementsinfilm.com/japanese-new-wave)
+- Cinemawaves on the [Japanese New Wave](https://cinemawavesblog.com/movements/japanese-new-wave/)
+
+See also: 
+
+Screening: _Portrait of Jason_ 
+
+---
+
+Week 8 Mon 13 Oct
+
+**Vérité**
+
+Screening: *Black Panthers*
+
+---
+
+Week 9: Mon 20 Oct
+
+**Resistance**
+
+Delphine Letort, "[Agnès Varda: Filming the Black Panthers's Struggle](https://canvas.emerson.edu/courses/2040561/files/168958619?wrap=1 "Agnes_Varda_filming_the_Black_Pantherss_Struggle.pdf")" (_L'Ordinaire des Amériques_, 217 (2014))
+
+Screening: *Gimme Shelter*
+
+---
+
+Week 10: Mon 27 Oct
+
+**Music Documentary**
+
+
+
+Screening: *Killer of Sheep*
+
+---
+
+Week 11: Mon 3 Nov
+
+**LA Rebellion**
+
+Reading:
+
+- [The Story of L.A. Rebellion](https://www.cinema.ucla.edu/la-rebellion/story-la-rebellion) (UCLA Library)
+- *L.A. Rebellion: Creating A New Black Cinema* (exhibition catalog, 2011)
+
+Screening: _The American Soldier_
+
+---
+
+Week 12: Mon 10 Nov
+
+**Queer Avant-Garde**
+
+Reading:
+
+- Judith Mayne, “Fassbinder and Spectatorship”
+
+Screening: _Barry Lyndon_ 
+
+---
+
+Week 13: Mon 17 Nov
+
+**Historical Drama**
+
+Reading:
+
+- Geoffrey O'Brien, "[Barry Lyndon: Time Regained](https://www.criterion.com/current/posts/5047-barry-lyndon-time-regained)" (*Criterion Collection*, 17 October 2017)
+- "[Kubrick's Candle Tricks in *Barry Lyndon*](https://www.criterion.com/current/posts/5059-kubrick-s-candle-tricks-in-barry-lyndon)" (*Criterion Collection*, 4 January 2018)
+- [Barry Lyndon Appreciation Society](https://www.facebook.com/groups/4160171565/) (Facebook)
+
+Screening: _Stalker_ 
+
+---
+
+Week 14: Mon 24 Nov
+
+**Transcendental Cinema**
+
+Reading:
+
+- Paul Schrader, “[Rethinking Transcendental Style](https://mroberts.emerson.build/courses/vm402-01/fa24/pdf/rethinking-transcendental-style.pdf)”
+- Stefan Smith, "[The Edge of Perception: Sound in Tarkovsky's _Stalker_](https://canvas.emerson.edu/courses/2040561/files/168961381?wrap=1 "SMITH-Stephen.pdf")" (_The School of Sound_ website)
+
+**World Cinema**
+
+Screening:  _Three Colours: Blue_
+
+---
+
+Week 15 Mon 1 Dec
+
+Conclusion
+
+***
+
+Week 16 
+
+Mon 8 Dec: Reading Day: **no class meeting**
+Tues 9-Fri 12: Exam period
+
+**Tues 9 Dec: Final paper due by 5PM**
+
+***
+
+## Filmography
+
+Andersen, Thom, and Noël Burch, dirs. 1996. *Red Hollywood*.  
+Andersen, Thom, dir. 2003. *Los Angeles Plays Itself*.  
+Maysles, Albert, David Maysles, and Charlotte Zwerin, dirs. 1970. _Gimme Shelter_.  
+Zwerin, Charlotte, dir. 1994. *Music for the Movies: Toru Takemitsu*. Les Films d’Ici.  
+
+***
+
+## Policies and Procedures
+
+**Attendance**  
+Since this class meets only weekly, attendance is particularly important. Students are allowed one absence per semester. Two absences will drop your final grade half a letter grade. Three absences will drop your grade a whole letter grade. Any more than **three absences**, regardless of the reason, and students will have to withdraw from the course (in accordance with Keene State College student handbook). Come and talk to me if you have any problem in attending the class.
+
+Keene State policy: A student who misses more than 3 weeks in the first 10 weeks of the semester (regardless of the reason, including excused absences and emergencies) must withdraw from the course. The student must follow the regular withdrawal procedure. The complete KSC attendance policy can be viewed at [http://www.keene.edu/registrar/policy/policy.cfm#6](http://www.keene.edu/registrar/policy/policy.cfm#6)
+
+---
+
+### Readings and assignments
+
+Readings assigned for each week need to be done **prior to** the class meeting. Assignments are due at the beginning of the class unless stated differently. Always submit a **hard copy** of your assignments- no email submissions are accepted unless arranged so.
+
+---
+
+### Discussion and participation
+
+Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, it is not allowed in this class to use laptop or mobile devices during lecture, discussion, and screenings.
+
+---
+
+### Viewing films
+
+Viewing films in class together with other seminar members is an important part of film education. For this reason, you are expected to pay close attention and take notes during viewing. No eating, checking texts or email, or any other kind of multi-tasking is allowed.
+
+---
+
+### Technology problems
+
+We tend to rely heavily on computer technology in completing our course work. Keep in mind that technologies can fail, especially when you have a pending due date. Be prepared for possible technical problems and save your files in multiple locations.
+
+---
+
+### How to read critical articles
+
+You may find some of the articles on the reading list dense or dry. These are theoretical writings that even advanced researchers sometimes find difficult. Do not feel frustrated. Allow enough time for you to read certain sections slowly and repeatedly. Take a break when you are stuck with one particular section of the article. Go back to the article with a fresh perspective. Most importantly, take a note and come up with specific (critical) questions.
+
+---
+
+### Academic honesty
+
+We understand and agree that we are participating in higher education. We respect this process and will act as mature and responsible individuals in it. To ensure that, all students are expected to hand in original written work. Using other people’s words without proper attribution constitutes plagiarism. Plagiarism and any other forms of cheating will result in an F for the assignment and may include further College sanctions. In this class, every student must be aware of and adhere to the college’s policy on academic honesty. Detailed procedures and processes pertaining to the Policy on Academic Honesty can be viewed at [http://www.keene.edu/policy/academichonesty.cfm ()](http://www.keene.edu/policy/academichonesty.cfm)
