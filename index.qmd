@@ -330,22 +330,60 @@ Zwerin, Charlotte, dir. 1994. *Music for the Movies: Toru Takemitsu*. Les Films 
 
 ## Policies and Procedures
 
-**Attendance**  
-Since this class meets only weekly, attendance is particularly important. Students are allowed one absence per semester. Two absences will drop your final grade half a letter grade. Three absences will drop your grade a whole letter grade. Any more than **three absences**, regardless of the reason, and students will have to withdraw from the course (in accordance with Keene State College student handbook). Come and talk to me if you have any problem in attending the class.
+Please read carefully and keep these policies in mind throughout the semester. Non-compliance with any of these policies will significantly impact your Engagement grade (20%), and in certain cases may result in a failing Engagement grade.
 
-Keene State policy: A student who misses more than 3 weeks in the first 10 weeks of the semester (regardless of the reason, including excused absences and emergencies) must withdraw from the course. The student must follow the regular withdrawal procedure. The complete KSC attendance policy can be viewed at [http://www.keene.edu/registrar/policy/policy.cfm#6](http://www.keene.edu/registrar/policy/policy.cfm#6)
+**Classroom Protocol**
+
+You are encouraged to use a notebook and take notes by hand during class. The use of laptops is permitted, but to take notes only. Laptops must still be closed during screening of films or film clips. 
+
+If I suspect that you are using your laptop for purposes other than to take notes, you will be given one warning. If the the problem persists, your laptop privileges will be withdrawn and you will not be permitted to use the laptop for the remainder of the semester. 
+
+The following may not be used when class is in progress:
+
+- Cellphones
+- Headphones or earbuds
+
+Hoods must be worn **down** at all times during class. This is related to the headphones policy---I must be able to see at all times that you are not using headphones. It's also an attention and participation issue, since wearing a hood necessarily limits ambient sound, including lectures and interaction with classmates.
 
 ---
 
-### Readings and assignments
+**Attendance and Policy on Absences**
 
-Readings assigned for each week need to be done **prior to** the class meeting. Assignments are due at the beginning of the class unless stated differently. Always submit a **hard copy** of your assignments- no email submissions are accepted unless arranged so.
+Attendance of all scheduled classes is mandatory. 
+
+Absences are classified as Explained or Unexplained. You are permitted **one** Unexplained absence per semester. Up to 2 further absences are permitted, but these must be Explained via email either before or as soon as possible after class. The following reasons are valid for an Explained absence.
+
+- illness 
+- bereavement
+- personal emergency
+- attending sports meet
+- job interview
+
+If you are absent from 3 classes, you are required to arrange a meeting with me to discuss your status in the course and how to proceed.
+
+College policy states that a student who is absent more than 3 times during the first 10 weeks of the semester is required to  withdraw from the course, regardless of the reason. The student must follow the regular withdrawal procedure.
+
+---
+
+### Readings and writing assignments
+
+Readings assigned for each week are expected to be completed **prior to** the class meeting. Assignments are due at the beginning of the class unless stated differently. **Please note that email submissions are not accepted.**
+
+---
+
+### Large-Language Models (LLM) and Generative Tools
+
+LLMs such as ChatGPT, Claude, Perplexity, and others have exponentially improved many tasks in academic research, from quickly locating relevant  sources to compiling bibliographies and formatting citations correctly. They are not always accurate, however, and discretion is always advised. 
+
+You are encouraged to make full use of any LLM tools you may be familiar with as research resources, **except** in the case of writing assignments, which must be entirely your own work. If I suspect that you have used a generative tool to write your paper for you, it will receive an automatic grade of F and you will be invited to meet with me during my office hours to present evidence that your work was not produced using a generative tool. If such evidence is not presented, the assignment grade will stand and any further breaches of the LLM protocol may result in failing the course.
+
+The use of spelling, punctuation, and grammar correction tools such as Grammerly is strongly encouraged, but their content-generating affordances may not be used.
 
 ---
 
 ### Discussion and participation
 
-Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, it is not allowed in this class to use laptop or mobile devices during lecture, discussion, and screenings.
+Class discussion (i.e. your participation) is one of the most essential parts of this class. Please come to class fully prepared—--both intellectually and physically. Also keep in mind that we always need to work together in order to create a productive and inspiring academic environment by being polite and respectful toward other students’ comments and ideas. In order to ensure your full participation and engagement in class, it is not allowed in this class to use laptop or mobile devices during lecture, discussion, and screenings.
 
 ---
 
